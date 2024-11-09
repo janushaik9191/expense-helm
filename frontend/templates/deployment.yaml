@@ -28,7 +28,6 @@ spec:
           requests:
             cpu: 100m
             memory: 128Mi
-          # limits is greater than or equal to requests
           limits:
             cpu: 100m
             memory: 128Mi
